@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
 <dict>
 	<key>LayoutID</key>
-	<integer>44</integer>
+	<integer>1</integer>
 	<key>PathMapRef</key>
 	<array>
 		<dict>
@@ -12,14 +9,20 @@
 				<integer>283902595</integer>
 			</array>
 			<key>Headphone</key>
-			<dict/>
+			<dict>
+				<key>MuteGPIO</key>
+				<integer>0</integer>
+			</dict>
 			<key>Inputs</key>
 			<array>
 				<string>Mic</string>
 				<string>LineIn</string>
 			</array>
 			<key>IntSpeaker</key>
-			<dict/>
+			<dict>
+				<key>MuteGPIO</key>
+				<integer>0</integer>
+			</dict>
 			<key>LineIn</key>
 			<dict>
 				<key>MuteGPIO</key>
@@ -426,7 +429,7 @@
 			<key>Mic</key>
 			<dict>
 				<key>MuteGPIO</key>
-				<integer>1342242841</integer>
+				<integer>0</integer>
 				<key>SignalProcessing</key>
 				<dict>
 					<key>SoftwareDSP</key>
@@ -836,4 +839,3 @@
 		</dict>
 	</array>
 </dict>
-</plist>

@@ -36,15 +36,15 @@
 					<key>CodecID</key>
 					<integer>283902595</integer>
 					<key>ConfigData</key>
-					<data>
-					AhccEAIXHUACFx4hAhcfAgIXDAIBRxwgAUcd
-					AQFHHhcBRx+QAUcMAgGXHDABlx2QAZceoAGX
-					H5IBpxxAAacdkAGnHoEBpx8B
-					</data>
+					<data>ISccACEnHQAhJx4AIScfQCHXHAEh1x0AIdceQCHXH0AiFxwQIhcdQCIXHiEiFx8CIhcMAiFHHCAhRx0BIUceFyFHH5AhRwwCIZccMCGXHZAhlx6jIZcfmSGnHEAhpx2QIacegSGnHwEhdxzwIXcdACF3HgAhdx9AIYcc8CGHHQAhhx4AIYcfQCG3HPAhtx0AIbceACG3H0AhtwwCIecc8CHnHQAh5x4AIecfQA==</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>1</integer>
+					<key>WakeConfigData</key>
+					<data>IhcMAiFHDAIhtwwC</data>
+					<key>WakeVerbReinit</key>
+					<true/>
 				</dict>
 			</array>
 			<key>IOClass</key>
